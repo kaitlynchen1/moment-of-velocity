@@ -15,7 +15,8 @@ pip install movel
 ```python
 import movel
 
-movel.avg_v_multi_mode(t, omega, psi, A, B, sigma, vrot)
+# calculates all multi modes for <v>, <v^2>, <v^3>
+movel.multi_mode(t, omega, psi, A, B, sigma, vrot)
 ```
 
 ## Contributing
