@@ -24,3 +24,4 @@ movel.multi_mode(t, omega, psi, A, B, sigma, vrot)
 Pull requests are welcome.
 
 ## License
+[3-Clause BSD](https://opensource.org/license/BSD-3-Clause)
