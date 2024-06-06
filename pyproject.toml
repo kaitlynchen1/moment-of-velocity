@@ -1,7 +1,7 @@
 [project]
 name = "movel"
 description = "calculating the moment of velocity"
-readme = "README.rst"
+readme = "README.md"
 authors = [
     { name = "Kaitlyn Chen", email = "kaichen@g.hmc.edu" }
 ]
@@ -14,4 +14,4 @@ dependencies = [
 dynamic = ["version"]
 
 [project.urls]
-homepage = "https://github.com/kaitlynchen1/moment-of-velocity/tree/main"
+homepage = "https://github.com/kaitlynchen1/moment-of-velocity"
